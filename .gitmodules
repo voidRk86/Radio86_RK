@@ -1,3 +1,6 @@
 [submodule "Software/ED_SC80"]
 	path = Software/ED_SC80
 	url = git://github.com/tchv71/ED_SC80.git
+[submodule "Hardware/RK_CPM30"]
+	path = Hardware/RK_CPM30
+	url = https://github.com/tchv71/RK_CPM30.git
