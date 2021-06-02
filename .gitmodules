@@ -1,0 +1,3 @@
+[submodule "Software/ED_SC80"]
+	path = Software/ED_SC80
+	url = git://github.com/tchv71/ED_SC80.git
