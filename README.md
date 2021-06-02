@@ -1,2 +1,2 @@
 # Radio86_RK
-vnv
+All about Radio86 RK home computer
